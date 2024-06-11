@@ -1,0 +1,58 @@
+Customer Dashboard:
+#348f6c - Big Round Rectangle
+
+#e0e0e0 - Mid Round Rectangle
+
+#dcdbdb - Small Round Rectangle
+
+#25c410 - Add Customer Button
+
+#e8c30e - Update Customer Button
+
+#ce0e36 - Delete Customer Button
+
+#ffffff - 2 Small Lines and Small Round Rectangle on the Sidebar
+
+#c5c5c5 - Line under the Customer Dashboard
+
+Add and Update Dashboard:
+#d2d2d2 - Color of small round rectangles
+
+#348f6c - Color of borders of Small Round Rectangle
+
+#ce0e36 - Color of Cancel Text and Border of Cancel Button / No Fill
+
+#3ca37b - Color of Submit/Update Button
+
+
+
+
+Updated Version:
+Customer Dashboard and Product Dashboard:
+#348f6c - Big Round Rectangle
+
+#feffe7 - Mid Round Rectangle : Updated Color
+
+#dcdbdb - Small Round Rectangle
+
+#25c410 - Add Customer Button
+
+#e8c30e - Update Customer Button
+
+#df9912 - Search Customer Button
+
+#ce0e36 - Delete Customer Button
+
+#ffffff - 2 Small Lines and Small Round Rectangle on the Sidebar
+
+#c5c5c5 - Line under the Customer Dashboard
+
+Add and Update Customer Dashboard and Product Dashboard:
+#d2d2d2 - Color of small round rectangles
+
+#348f6c - Color of borders of Small Round Rectangle
+
+#ce0e36 - Color of Cancel Text and Border of Cancel Button / No Fill
+
+#3ca37b - Color of Submit/Update Button
+
