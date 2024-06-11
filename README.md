@@ -1,6 +1,6 @@
 Disclamier this is 2022 school project when im in my 3rd year college 1st sem
 
-Designs
+Designs using PyQT designer 
 
 ![Home-DashBoard](https://github.com/dambear/InventorySystem/assets/113430873/6a92618e-5cd8-431a-bf10-e6419d529173)
 ![Customer-DashBoard](https://github.com/dambear/InventorySystem/assets/113430873/ede7fec4-0e7e-4c2c-bacd-6121f2d8977d)
